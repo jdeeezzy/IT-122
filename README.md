@@ -1,2 +1,2 @@
 # IT-122
-IT122 Repot
+IT122 Repo
