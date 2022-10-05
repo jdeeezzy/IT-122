@@ -1,4 +1,4 @@
-const api_endpoint = 'http://dog-api.kinduff.com/api/facts?number=5'
+const api_endpoint = 'https://yomomma-api.herokuapp.com/jokes'
 
 const response = await fetch(api_endpoint);
 
